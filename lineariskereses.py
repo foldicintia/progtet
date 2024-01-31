@@ -9,3 +9,5 @@ def lin_ker():
         print(f"van 0-ra végződő szám: {i}")
     else:
         print("nincs 0-ra végződő") 
+
+lin_ker()
